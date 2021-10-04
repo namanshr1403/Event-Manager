@@ -1,1 +1,1 @@
-### DSC Event Manager App
+DSC Event Manager App
